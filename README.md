@@ -8,7 +8,7 @@ in the hope of making their eyes bigger in a natural?(zero budget) way.
 
 As long as your eyes are opened bigger than the criteria, the device's motor 
 activates and pumps apple juice as a prize. 
-
+  
 
 ### Process
 
@@ -17,17 +17,22 @@ activates and pumps apple juice as a prize.
 3. CNN to classify of eyes are opened or closed
 
 
+  
 ### Dataset
 Closed Eyes In The Wild
+  
 
 
 ### Physical Computing
 Arduino & pySerial
+  
 
-
+  
 ### Based On
 https://medium.com/@iaswnparaskev/a-simple-blink-detector-using-a-small-convolutional-neural-network-with-python-ba8171ae0e0b 
+  
 
+  
 ### File
 dataset.csv - Dataset.  
 blinkModel.hdf5 - Model trained on the eyes Open/Closed Dataset.   

@@ -29,8 +29,8 @@ Arduino & pySerial
 https://medium.com/@iaswnparaskev/a-simple-blink-detector-using-a-small-convolutional-neural-network-with-python-ba8171ae0e0b 
 
 ### File
-dataset.csv - Dataset
-blinkModel.hdf5 - Model trained on the eyes Open/Closed Dataset 
-natural_plastic_surgery.py - main code 
-shape_predictor_68_face_landmarks.dat - 68 points in facee
-haarcascade_frontalface_alt.xml - face detection model
+dataset.csv - Dataset. 
+blinkModel.hdf5 - Model trained on the eyes Open/Closed Dataset. 
+natural_plastic_surgery.py - main code.     
+shape_predictor_68_face_landmarks.dat - 68 points in facee. 
+haarcascade_frontalface_alt.xml - face detection model. 

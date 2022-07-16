@@ -1,5 +1,7 @@
 # Natural_Plastic_Surgery
 
+![alt text](https://github.com/syeminpark/Natural_Plastic_Surgery/blob/main/readmeImage.jpg?raw=true)
+
 ### Story
 A device + algorithm to help anyone practice strecthing their eyelids 
 in the hope of making their eyes bigger in a natural?(zero budget) way.
